@@ -1,14 +1,2 @@
-### Hi there 👋
-
-<!--
-**kvizdos/kvizdos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Oh, fun! A new place to remember to update! Anyways, heres a bit about me (Kenton Vizdos):
-- 17 y/o rising senior in high school
-- Web Dev (mainly w/ NodeJS)
-- I sometimes write blog posts @ https://blog.kentonvizdos.com
-- Right now, I'm working on PRAUXY (a proxy system with simple authentication at its core) and PRAUXYGO (a tablet IDE)
-- You can check out my official portfolio page @ https://kentonvizdos.com
--->
+### Hello, I'm Kenton Vizdos 👋
+I'm a 17 y/o rising senior in high school in Richmond, VA! As of now, I'm studying Web Dev (mainly w/ NodeJS) while (sometimes) writing on my blog at https://blog.kentonvizdos.com and tweeting at https://twitter.com/kvizdos. Right now, I'm working on PRAUXY (a proxy system with simple authentication at its core) and PRAUXYGO (a tablet IDE). You can check out my official portfolio page @ https://kentonvizdos.com
