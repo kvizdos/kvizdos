@@ -1,2 +1,8 @@
-### Hello, I'm Kenton Vizdos 👋
-I'm a 17 y/o rising senior in high school in Richmond, VA! As of now, I'm studying Web Dev (mainly w/ NodeJS) while (sometimes) writing on my blog at https://blog.kentonvizdos.com and tweeting at https://twitter.com/kvizdos. Right now, I'm working on PRAUXY (a proxy system with simple authentication at its core) and PRAUXYGO (a tablet IDE). You can check out my official portfolio page @ https://kentonvizdos.com
+### Hi there, I'm Kenton Vizdos 👋
+
+- 🔭 I’m currently working on PRAUXY & PRAUXYGO
+- 🌱 I’m currently learning web dev (mainly NodeJS, maybe Deno & WASM at one point)
+- 🤔 I’m looking for help with WASM
+- 📫 How to reach me: please fill out the contact me form on my portfolio @ https://kentonvizdos.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: In JavaScript, (a == 1 && a == 2 && a == 3) can evaluate to true.
