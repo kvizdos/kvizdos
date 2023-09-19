@@ -1,7 +1,7 @@
 ### Hi there, I'm Kenton Vizdos 👋
 
-- 🔭 I’m currently working on PRAUXY & PRAUXYGO
-- 🌱 I’m currently learning web dev (mainly NodeJS, maybe Deno & WASM at one point)
+- 🔭 I’m currently working on a Go Authn + Authz library (Locksmith)
+- 🌱 I’m currently learning web dev with Golang and secure engineering
 - 🤔 I’m looking for help learning WASM
 - 📫 How to reach me: please fill out the contact me form on my portfolio @ https://kentonvizdos.com
 - 😄 Pronouns: he/him
